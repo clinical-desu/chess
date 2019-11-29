@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2d35ebb-eab8-4a02-aeb9-21296e49d3c0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="chess" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Qv0Sn2hcICrhlWOOhZ9Bmt51xf" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Nikita-progs\chess" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/chess/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="main.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.main.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2d35ebb-eab8-4a02-aeb9-21296e49d3c0" name="Default Changelist" comment="" />
+      <created>1568635764490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568635764490</updated>
+      <workItem from="1568635767850" duration="1046000" />
+      <workItem from="1568636840865" duration="1875000" />
+      <workItem from="1568638753564" duration="12234000" />
+      <workItem from="1568711358747" duration="1738000" />
+      <workItem from="1568715072587" duration="9295000" />
+      <workItem from="1568739956847" duration="600000" />
+      <workItem from="1568884405777" duration="18334000" />
+      <workItem from="1568990251609" duration="10772000" />
+      <workItem from="1569083008221" duration="561000" />
+      <workItem from="1569141084821" duration="2813000" />
+      <workItem from="1569143949612" duration="19719000" />
+      <workItem from="1569224907315" duration="11016000" />
+      <workItem from="1569312777614" duration="22905000" />
+      <workItem from="1569435827443" duration="137000" />
+      <workItem from="1569487854080" duration="17110000" />
+      <workItem from="1569518159162" duration="8000" />
+      <workItem from="1569519848207" duration="6730000" />
+      <workItem from="1569569565397" duration="14516000" />
+      <workItem from="1569675014847" duration="2363000" />
+      <workItem from="1569679095806" duration="331000" />
+      <workItem from="1569680636568" duration="1313000" />
+      <workItem from="1569681954292" duration="7000" />
+      <workItem from="1569951035262" duration="39000" />
+      <workItem from="1569959664062" duration="5000" />
+      <workItem from="1570042363143" duration="2836000" />
+      <workItem from="1570097112308" duration="631000" />
+      <workItem from="1570099180402" duration="17981000" />
+      <workItem from="1570180483037" duration="12552000" />
+      <workItem from="1570215544939" duration="3911000" />
+      <workItem from="1570264838665" duration="20143000" />
+      <workItem from="1570354730758" duration="22034000" />
+      <workItem from="1570435998435" duration="22002000" />
+      <workItem from="1570529531063" duration="154000" />
+      <workItem from="1570534862887" duration="10495000" />
+      <workItem from="1570559929965" duration="485000" />
+      <workItem from="1570611940897" duration="3536000" />
+      <workItem from="1570641299171" duration="3452000" />
+      <workItem from="1570693333437" duration="4403000" />
+      <workItem from="1570729272298" duration="3000" />
+      <workItem from="1570736656120" duration="161000" />
+      <workItem from="1570959387402" duration="6000" />
+      <workItem from="1571143242026" duration="739000" />
+      <workItem from="1571228700733" duration="605000" />
+      <workItem from="1572691477403" duration="64000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JavascriptDebugType">
+        <watch expression="move" language="JavaScript" />
+        <watch expression="allCells[i]" language="JavaScript" />
+        <watch expression="allCells[k].childNodes.length" language="JavaScript" />
+        <watch expression="allCells[k].id" language="JavaScript" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

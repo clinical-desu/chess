@@ -1,0 +1,67 @@
+body {
+    background: url("https://www.ppt-backgrounds.net/uploads/qianqian-li-design-vintage-paper-clipart-keynote.jpeg");
+}
+
+table {
+    position: relative;
+    background-color: burlywood;
+    height: 50%;
+    width: 50%;
+    margin-top: 55px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 4px black;
+    border-radius: 8px;
+}
+
+#table td, tr {
+    border: 1px solid black;
+    height: 70px;
+    width: 70px;
+}
+
+#end {
+    position: absolute;
+    background-color: burlywood;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    height: 595px;
+    width: 750px;
+    border: solid 4px black;
+    border-radius: 8px;
+    z-index: 1;
+}
+
+#end-button {
+    margin-top: 5%;
+    position: relative;
+    padding: 2% 2%;
+    color: gray;
+    text-decoration: none;
+    background-color: bisque;
+    border-radius: 100px 100px;
+    font-size: 36px;
+    border: 1px gray solid;
+    font-family: 'Dancing Script', cursive;
+}
+
+#end > h1 {
+    margin-top: 100px;
+    margin-bottom: 0;
+    font-size: 100px;
+}
+
+#end > h2 {
+    font-family: 'Dancing Script', cursive;
+    margin-top: 10px;
+    margin-bottom: 0;
+    font-size: 50px;
+}
+
+#end-button:hover {
+    background-color: #BDBDBD;
+    color: white;
+}
